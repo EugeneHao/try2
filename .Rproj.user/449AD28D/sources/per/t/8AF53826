@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519237781814.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2155949274",
+    "id" : "8AF53826",
+    "lastKnownWriteTime" : 1519238482,
+    "last_content_update" : 1519238482993,
+    "path" : "C:/Users/Eugene Hao/Desktop/blogdown_test/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "97,25",
+        "scrollLine" : "81"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

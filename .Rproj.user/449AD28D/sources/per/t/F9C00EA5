@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1519238807004.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "823830942",
+    "id" : "F9C00EA5",
+    "lastKnownWriteTime" : 1519238832,
+    "last_content_update" : 1519238832682,
+    "path" : "C:/Users/Eugene Hao/Desktop/blogdown_test/content/post/2018-02-21-my-first-post.Rmd",
+    "project_path" : "content/post/2018-02-21-my-first-post.Rmd",
+    "properties" : {
+        "cursorPosition" : "10,15",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

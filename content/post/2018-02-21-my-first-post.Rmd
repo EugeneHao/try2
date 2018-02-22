@@ -1,0 +1,15 @@
+---
+title: my first post
+author: Hao Sun
+date: '2018-02-21'
+slug: my-first-post
+categories:
+  - R markdown
+tags: []
+---
+
+This is a plot 
+```{r}
+plot(rnorm(10))
+```
+
